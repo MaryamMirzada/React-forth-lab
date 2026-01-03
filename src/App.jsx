@@ -6,6 +6,7 @@ import Counter from './assets/Counter'
 import Count from './assets/Count'
 import Counter1 from './assets/Counter1'
 import Button from './assets/button'
+import Counter2 from './assets/Counter2'
 
 
 
@@ -51,7 +52,8 @@ function App(){
       {/* <LogIn></LogIn> */}
    {/* <Count></Count> */}
    {/* <Counter1></Counter1> */}
-   <Button> </Button>
+   {/* <Button> </Button> */}
+   <Counter2></Counter2>
     </div>
   )
 }
