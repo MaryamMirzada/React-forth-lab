@@ -7,6 +7,7 @@ import Count from './assets/Count'
 import Counter1 from './assets/Counter1'
 import Button from './assets/button'
 import Counter2 from './assets/Counter2'
+import Condition from './assets/Condition'
 
 
 
@@ -53,7 +54,8 @@ function App(){
    {/* <Count></Count> */}
    {/* <Counter1></Counter1> */}
    {/* <Button> </Button> */}
-   <Counter2></Counter2>
+   {/* <Counter2></Counter2> */}
+   <Condition></Condition>
     </div>
   )
 }
